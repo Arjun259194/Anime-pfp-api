@@ -1,0 +1,23 @@
+{
+  "name": "anime-pfp-api",
+  "version": "1.0.0",
+  "description": "This is an api that will send random anime profile picture to the user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjun259194/Anime-pfp-api.git"
+  },
+  "author": "arjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjun259194/Anime-pfp-api/issues"
+  },
+  "homepage": "https://github.com/Arjun259194/Anime-pfp-api#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
